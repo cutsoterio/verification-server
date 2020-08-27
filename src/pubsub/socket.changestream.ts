@@ -25,6 +25,7 @@ export default class SocketChangestream {
   }
 
   watchTestChanges() {
+
     const testCollection = this.db.collection("test");
     const testChangestream = testCollection.watch();
 
