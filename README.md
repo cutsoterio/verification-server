@@ -1,2 +1,2 @@
-# backend
-Soterio pandemic containment protocol backend server.
+# Verification Server
+Soterio Verification Server
